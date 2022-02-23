@@ -17,7 +17,7 @@
 </div>
 ---
 
-### :man_technologist: About Me : I am a developer from Myanmar.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### 👨‍💻: About Me : I am a developer from Myanmar.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :telescope: I’m working as a developer and contributing to frontend and backend for building web applications.
 
