@@ -18,7 +18,7 @@
 
 
 # 💫 About Me:
-Results-driven full stack developer with over 4 years of experience in both frontend and backend web development. Proven expertise in collaborating with cross-functional teams to design, develop, and deploy high-quality code bases. Demonstrated leadership skills in project management, code reviews, and the development of next-generation products. Highly skilled in a wide range of web front-end technologies, including HTML, CSS, SCSS, JavaScript, TypeScript, Angular, React, Ionic, as well as proficiency in Python (Flask), Python (Django), Node.js, Next.js. Proficient in working with NoSQL, MySQL, and MongoDB databases.
+I am a professional developer with a Bachelor's degree in Computer Science. I am currently working as a Senior Full Stack Developer at JMS-United Co.Ltd, Japan. With over 4 years of proven work experience in web development and full-stack expertise, I am consistently eager and passionate about learning new technologies. My goal is to create high-performance, attractive, and user-friendly single-page web applications. And I am also a quick learner. My expertise includes proficiency in a range of programming languages and databases such as HTML, CSS, SCSS, JavaScript, Typescript, Angular, React, Ionic, Python (Flask, Django), Node.js, NoSQL, MySQL, MongoDB, and more. I am a detail-oriented developer with a keen eye for design and a commitment to delivering high-quality work that meets or exceeds client expectations.
 
 
 
