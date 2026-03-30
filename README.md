@@ -18,7 +18,7 @@
 
 
 # 💫 About Me:
-I am a professional developer with a Bachelor's degree in Computer Science. I am currently working as a Senior Frontend Engineer at Tapway, Malaysia. With over 4 years of proven work experience in web development and full-stack expertise, I am consistently eager and passionate about learning new technologies. My goal is to create high-performance, attractive, and user-friendly single-page web applications. And I am also a quick learner. My expertise includes proficiency in a range of programming languages and databases such as HTML, CSS, SCSS, JavaScript, Typescript, Angular, React, Ionic, Python (Flask, Django), Node.js, NoSQL, MySQL, MongoDB, and more. I am a detail-oriented developer with a keen eye for design and a commitment to delivering high-quality work that meets or exceeds client expectations.
+I am a professional developer with a Bachelor's degree in Computer Science. I am currently working as a Senior Frontend Engineer at Tapway, Malaysia. With over 4 years of proven work experience in web development and full-stack expertise, I am consistently eager and passionate about learning new technologies. My goal is to create high-performance, attractive, and user-friendly single-page web applications. And I am also a quick learner. My expertise includes proficiency in a range of programming languages and databases such as Angular, React, NextJS, Python, Node.js, Flutter, HTML, CSS, SCSS, JavaScript, Typescript, Ionic, NoSQL, MySQL, MongoDB, and more. I am a detail-oriented developer with a keen eye for design and a commitment to delivering high-quality work that meets or exceeds client expectations.
 
 
 
