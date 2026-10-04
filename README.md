@@ -2,7 +2,7 @@
 
 # Myat Thiha
 
-**Senior Frontend Engineer** · Kuala Lumpur, Malaysia
+**Senior Frontend Engineer @Tapway** · Kuala Lumpur, Malaysia
 
 Building fast, high-performance web products with React, Angular, Next.js and Three.js — and bringing AI into real-world applications.
 
