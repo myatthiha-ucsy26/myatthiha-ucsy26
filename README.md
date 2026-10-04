@@ -4,7 +4,7 @@
 
 **Senior Frontend Engineer @Tapway** · Kuala Lumpur, Malaysia
 
-Building fast, high-performance web products with React, Angular, Next.js and Three.js — and bringing AI into real-world applications.
+Building fast, high-performance web products with React, Angular, Next.js, Three.js, Python and Node.js — and bringing AI into real-world applications.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-myatthiha--portfolio.web.app-10B981?style=flat-square&logo=googlechrome&logoColor=white)](https://myatthiha-portfolio.web.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-myatthiha--ucsy26-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myatthiha-ucsy26/)
